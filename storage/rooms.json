@@ -1,0 +1,11 @@
+{
+  "general": {
+    "password": "",
+    "messages": [
+      {
+        "systemMessage": true,
+        "message": "This is the general chatroom. All chats will be saved and stored until the Dyno is manually restarted; once done, the only remaining chatroom will be this one."
+      }
+    ]
+  }
+}
